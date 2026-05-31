@@ -25,3 +25,13 @@
     ssh -T git@github.com‘’‘
 
 修改文件 → 保存文件 → git add . → git commit → git push
+
+
+# Phase 0 Git练习
+
+今天我完成了：
+
+- 第一次创建了Github仓库
+- 完成了一次commit 和 push
+- 新建了 terminal—practice.md
+- 理解了git status / git add / git commit / git push 的基本流程
