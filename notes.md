@@ -23,3 +23,5 @@
 验证指令：
     ‘’‘bash
     ssh -T git@github.com‘’‘
+
+修改文件 → 保存文件 → git add . → git commit → git push
