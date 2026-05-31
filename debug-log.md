@@ -13,3 +13,20 @@ Phase 0
 ### 报错信息
 ‘’‘bash
 这里粘贴完整的报错信息
+
+注意：以后你遇到报错，不要只说“报错了”。  
+你要开始训练工程师表达：
+
+**我做了什么 → 出现了什么报错 → 我尝试了什么 → 现在卡在哪里。**
+
+
+
+第 2 步：提交错题本
+
+保存后，回到终端：
+
+```bash
+git status
+git add .
+git commit -m "add debug log template"
+git push
